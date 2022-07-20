@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BluuesBluu
+- 👀 I’m interested in video games and music
+- 🌱 I’m currently learning Python
